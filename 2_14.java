@@ -6,7 +6,7 @@ public class AverageIntegers {
         Scanner input = new Scanner(System.input);
         int sum;
 
-        System.out.println("Sum Integers"); 
+        System.out.println("Average Integers"); 
         System.out.print("Enter first integer: ");
         int1 = input.nextInt(); 
         System.out.print("Enter second integer: "); 
