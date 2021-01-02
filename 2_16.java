@@ -18,7 +18,7 @@ public class GetInputCLI {
         coefficient = in.nextDouble();
         System.out.print("Enter the number of bounces: ");
         bounces = in.nextInt();
-        System.out.print("Enter the color of the ball: ")
+        System.out.print("Enter the color of the ball: ");
         color = in.next();
 
         String message = "After " + bounces +
